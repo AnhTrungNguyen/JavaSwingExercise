@@ -6,4 +6,8 @@ These are basic java swing exercises for newbies. Hope it will be useful to ever
 
 ![image](https://user-images.githubusercontent.com/103439199/198942164-070d7b22-7a10-4d0f-b5c8-75a2a993c722.png)
 
+2. LABEL.
+
+![image](https://user-images.githubusercontent.com/103439199/199427036-0dac8c2f-4139-43b8-b471-ff738628fbae.png)
+
 LET'S GO WITH ME !

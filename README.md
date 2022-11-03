@@ -10,4 +10,8 @@ These are basic java swing exercises for newbies. Hope it will be useful to ever
 
 ![image](https://user-images.githubusercontent.com/103439199/199427036-0dac8c2f-4139-43b8-b471-ff738628fbae.png)
 
+3. RADIO BUTTON.
+
+![image](https://user-images.githubusercontent.com/103439199/199699147-88269212-70fd-4ddc-b4ee-f370e3749a36.png)
+
 LET'S GO WITH ME !

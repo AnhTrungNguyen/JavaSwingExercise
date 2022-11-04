@@ -14,4 +14,8 @@ These are basic java swing exercises for newbies. Hope it will be useful to ever
 
 ![image](https://user-images.githubusercontent.com/103439199/199699147-88269212-70fd-4ddc-b4ee-f370e3749a36.png)
 
+4. MENU BAR.
+
+![image](https://user-images.githubusercontent.com/103439199/199905228-93c35d55-a58e-4078-befe-24195ab1fea2.png)
+
 LET'S GO WITH ME !

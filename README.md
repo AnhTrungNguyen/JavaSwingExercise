@@ -26,4 +26,8 @@ These are basic java swing exercises for newbies. Hope it will be useful to ever
 
 ![image](https://user-images.githubusercontent.com/103439199/200147030-55d03ba7-4838-4f5f-b823-8fe849a39117.png)
 
+7. SELECT FILE.
+
+![image](https://user-images.githubusercontent.com/103439199/200321798-adc44cda-e89e-4504-9647-341b11476278.png)
+
 LET'S GO WITH ME !

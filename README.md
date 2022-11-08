@@ -30,4 +30,8 @@ These are basic java swing exercises for newbies. Hope it will be useful to ever
 
 ![image](https://user-images.githubusercontent.com/103439199/200321798-adc44cda-e89e-4504-9647-341b11476278.png)
 
+8. FLOWLAYOUT.
+
+![image](https://user-images.githubusercontent.com/103439199/200539883-e9bd8870-1404-4213-bc4a-763fdcb6708e.png)
+
 LET'S GO WITH ME !

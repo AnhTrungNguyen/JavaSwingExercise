@@ -34,4 +34,8 @@ These are basic java swing exercises for newbies. Hope it will be useful to ever
 
 ![image](https://user-images.githubusercontent.com/103439199/200539883-e9bd8870-1404-4213-bc4a-763fdcb6708e.png)
 
+9. TEXT FIELD.
+
+![image](https://user-images.githubusercontent.com/103439199/200779843-2f015f47-79ef-4bf8-955a-c1918a45438d.png)
+
 LET'S GO WITH ME !

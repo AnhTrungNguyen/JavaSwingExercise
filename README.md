@@ -42,4 +42,8 @@ These are basic java swing exercises for newbies. Hope it will be useful to ever
 
 ![image](https://user-images.githubusercontent.com/103439199/200779843-2f015f47-79ef-4bf8-955a-c1918a45438d.png)
 
+11. BORDER LAYOUT.
+
+![image](https://user-images.githubusercontent.com/103439199/201340656-28fabff5-bff2-46bb-b683-ffc181b841b2.png)
+
 LET'S GO WITH ME !

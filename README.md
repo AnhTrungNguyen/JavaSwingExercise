@@ -46,4 +46,8 @@ These are basic java swing exercises for newbies. Hope it will be useful to ever
 
 ![image](https://user-images.githubusercontent.com/103439199/201340656-28fabff5-bff2-46bb-b683-ffc181b841b2.png)
 
+12. GRID LAYOUT.
+
+![image](https://user-images.githubusercontent.com/103439199/201454379-95cda412-efec-4272-86c0-ffa6d45d2dba.png)
+
 LET'S GO WITH ME !

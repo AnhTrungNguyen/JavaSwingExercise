@@ -54,4 +54,8 @@ These are basic java swing exercises for newbies. Hope it will be useful to ever
 
 ![image](https://user-images.githubusercontent.com/103439199/201520935-220774d3-7cbc-45c5-bfdb-3c4ed384d481.png)
 
+14. JLAYEREDPANEL.
+
+![image](https://user-images.githubusercontent.com/103439199/201629603-d16bb576-f375-4673-9bb0-12fef23de5a1.png)
+
 LET'S GO WITH ME !

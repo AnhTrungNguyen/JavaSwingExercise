@@ -1,6 +1,6 @@
 HELLO EVERYONE !
 
-These are basic java swing exercises for newbies. Hope it will be useful to everyone!
+These are basic java swing exercises for newbies. Hope it will be useful to everyone !
 
 1. BUTTON.
 
